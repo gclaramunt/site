@@ -13,12 +13,12 @@ armar un grupo para difundir y compartir.
 
 ## Es mas grande 
 
-Gabriel abrió la idea a un grupo de entusiastas y rápidamente se despertó el interes y en pocos días 
-nos juntamos a conocernos y proyectar mas encuentros.
+Gabriel abrió la idea a un grupo de entusiastas; rápidamente se despertó el interes y en pocos días 
+nos juntamos a conocernos.
 
 ## Entre muchos
 
-El (cuando-nos-juntamos?) nos juntamos y planeamos volver a hacerlo regularmente con el fin de 
+El 12/12/12 nos juntamos por primera vez y planeamos volver a hacerlo regularmente con el fin de 
 hacer realidad esa idea de conocernos, intercambiar y difundir.
 
 (lista-de-personas)
