@@ -40,13 +40,17 @@ hacerte unas preguntas.
 
 [[GOOGLE FORM CON PREGUNTAS]]
 
-* Te interesa saber que es Scala?
-* Te interesa aprender un poquito mas de scala?
-* Usas Scala (aunque no sea en produccíon)?
-* Usas Scala en producción? 
-* Queres mostrarnos algo?
-* Queres preguntarnos algo?
-* Que día de la semana/mes te sirve? por ejemplo: 3er jueves.
+[[ PLEASE ADD QUESTIONS ]]
+
+* Que sabés de Scala
+** Te interesa saber que es Scala?
+** Te interesa aprender un poquito mas de scala?
+** Usas Scala (aunque no sea en produccíon)?
+** Usas Scala en producción? 
+
+* Queres mostrarnos algo? (asi preparamos un slot!)
+* Queres preguntarnos algo? ( asi preparamos material )
+* Que día de la semana/mes te sirve? por ejemplo: 3er jueves. 
 
 Gracias por contestar y [seguinos en twitter](https://twitter.com/scalameetupuy/) para estar
 al tanto de todas las novedades.
