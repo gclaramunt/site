@@ -8,7 +8,7 @@ categories: scala meta eventos
 ---
 
 En noviembre [@fedesilva](http://twitter.com/fedesilva) y [@gclaramunt](http://twitter.com/gclaramunt) 
-se juntaron a hablar de Scala con la idea de armar un grupo para reunirse periódicamente.
+se juntaron a hablar de Scala y con la idea de reunirse periódicamente.
 
 La idea se compartió con un [grupo de entusiastas](https://groups.google.com/forum/?fromgroups=#!forum/scala-users-group-uruguay), 
 rápidamente se despertó el interes y planeamos conocernos.
@@ -29,21 +29,8 @@ con scala; el lenguaje en sí, las herramientas, la comunidad.
 ## Queremos saber de vos
 
 Con el fin de preparar material para mejor recibir a todo el mundo nos gustaría
-hacerte unas preguntas.
+[ hacerte unas preguntas ](https://docs.google.com/spreadsheet/viewform?formkey=dFlpOXN4ZjFCeDRuMjA1X3lTMFEtdVE6MQ#gid=0).
 
-[[GOOGLE FORM CON PREGUNTAS]]
-
-[[ PLEASE ADD QUESTIONS ]]
-
-* Que sabés de Scala
-* Te interesa saber que es Scala?
-* Te interesa aprender un poquito mas de scala?
-* Usas Scala (aunque no sea en produccíon)?
-* Usas Scala en producción? 
-
-* Queres mostrarnos algo? (asi preparamos un slot!)
-* Queres preguntarnos algo? ( asi preparamos material )
-* Que día de la semana/mes te sirve? por ejemplo: 3er jueves. 
 
 Gracias por contestar y [seguinos en twitter](https://twitter.com/scalameetupuy/) para estar
 al tanto de todas las novedades.
