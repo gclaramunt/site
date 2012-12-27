@@ -13,29 +13,32 @@ armar un grupo para difundir y compartir.
 
 ## Es mas grande 
 
-Gabriel abrió la idea a un grupo de entusiastas; rápidamente se despertó el interes y en pocos días 
-nos juntamos a conocernos.
+Gabriel compartió la idea con un grupo de entusiastas; rápidamente se despertó el interes y
+en pocos días nos juntamos a conocernos.
 
 ## Entre muchos
 
-El 12/12/12 nos juntamos por primera vez y planeamos volver a hacerlo regularmente con el fin de 
-hacer realidad esa idea de conocernos, intercambiar y difundir.
+Alejandro Mateo puso la oficina y las cervezas y el 12/12/12 nos juntamos por primera vez y 
+planeamos volver a hacerlo regularmente con el fin de hacer realidad esa idea de conocernos,
+intercambiar y difundir.
 
-(lista-de-personas)
+[[LISTA DE NOMBRES]]
 
 ## Que vamos a hacer?
 
 Se manejan varias ideas y esperamos poder concretarlas todas: charlas de temas específicos,
-open spaces, tutoriales y simplemente fraternizar e intercambiar ideas, buenas prácticas, experiencias.
+open spaces, tutoriales y simplemente fraternizar e intercambiar ideas, buenas prácticas,
+experiencias.
 
-Si bien aún no tenemos una fecha concreta la idea es hablar regularmente de temas relacionados con scala;
-el lenguaje en sí, las herramientas, la comunidad. 
-
-Con el fin de preparar material para mejor recibir a todo el mundo nos gustaría hacerte unas preguntas.
+Si bien aún no tenemos una fecha concreta la idea es hablar regularmente de temas relacionados
+con scala; el lenguaje en sí, las herramientas, la comunidad. 
 
 ## Queremos saber de vos
 
-(google-form-con-preguntas)
+Con el fin de preparar material para mejor recibir a todo el mundo nos gustaría
+hacerte unas preguntas.
+
+[[GOOGLE FORM CON PREGUNTAS]]
 
 * Te interesa saber que es Scala?
 * Te interesa aprender un poquito mas de scala?
@@ -45,6 +48,6 @@ Con el fin de preparar material para mejor recibir a todo el mundo nos gustaría
 * Queres preguntarnos algo?
 * Que día de la semana/mes te sirve? por ejemplo: 3er jueves.
 
-Gracias por contestar y estate pendiente de anuncios en el blog o en twitter.
-
+Gracias por contestar y [seguinos en twitter](https://twitter.com/scalameetupuy/) para estar
+al tanto de todas las novedades.
 
