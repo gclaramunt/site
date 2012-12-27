@@ -3,6 +3,7 @@ layout: post
 title: "Scala Meetup en Montevideo"
 date: 2012-12-18 21:31
 comments: false
+sharing: true
 categories: scala meta eventos
 ---
 
