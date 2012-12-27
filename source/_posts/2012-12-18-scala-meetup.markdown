@@ -6,23 +6,15 @@ comments: false
 categories: scala meta eventos
 ---
 
-## Una idea
+En noviembre [@fedesilva](http://twitter.com/fedesilva) y [@gclaramunt](http://twitter.com/gclaramunt) 
+se juntaron a hablar de Scala con la idea de armar un grupo para reunirse periódicamente.
 
-En noviembre Gabriel Claramunt y Federico Silva se juntaron a hablar de Scala con la idea de 
-armar un grupo para difundir y compartir.
+La idea se compartió con un [grupo de entusiastas](https://groups.google.com/forum/?fromgroups=#!forum/scala-users-group-uruguay), 
+rápidamente se despertó el interes y planeamos conocernos.
 
-## Es mas grande 
+Alejandro Mateo puso la oficina y las cervezas y el 12/12/12 nos juntamos por primera vez. 
 
-Gabriel compartió la idea con un grupo de entusiastas; rápidamente se despertó el interes y
-en pocos días nos juntamos a conocernos.
-
-## Entre muchos
-
-Alejandro Mateo puso la oficina y las cervezas y el 12/12/12 nos juntamos por primera vez y 
-planeamos volver a hacerlo regularmente con el fin de hacer realidad esa idea de conocernos,
-intercambiar y difundir.
-
-[[LISTA DE NOMBRES]]
+[[LISTA DE NOMBRES, LINKS, LO QUE QUIERAN]]
 
 ## Que vamos a hacer?
 
