@@ -43,10 +43,10 @@ hacerte unas preguntas.
 [[ PLEASE ADD QUESTIONS ]]
 
 * Que sabés de Scala
-** Te interesa saber que es Scala?
-** Te interesa aprender un poquito mas de scala?
-** Usas Scala (aunque no sea en produccíon)?
-** Usas Scala en producción? 
+* Te interesa saber que es Scala?
+* Te interesa aprender un poquito mas de scala?
+* Usas Scala (aunque no sea en produccíon)?
+* Usas Scala en producción? 
 
 * Queres mostrarnos algo? (asi preparamos un slot!)
 * Queres preguntarnos algo? ( asi preparamos material )
