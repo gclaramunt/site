@@ -4,18 +4,26 @@ title: "Scala Meetup en Montevideo"
 date: 2012-12-18 21:31
 comments: false
 sharing: true
-categories: scala meta eventos
+categories: encuentros
 ---
 
-En noviembre [@fedesilva](http://twitter.com/fedesilva) y [@gclaramunt](http://twitter.com/gclaramunt) 
-se juntaron a hablar de Scala y con la idea de reunirse periódicamente.
+#### Primer encuentro de entusiastas del lenguaje Scala en Montevideo.
 
-La idea se compartió con un [grupo de entusiastas](https://groups.google.com/forum/?fromgroups=#!forum/scala-users-group-uruguay), 
-rápidamente se despertó el interes y planeamos conocernos.
+## El 12/12/12 nos juntamos por primera vez. 
 
-Alejandro Mateo puso la oficina y las cervezas y el 12/12/12 nos juntamos por primera vez. 
+ La cantidad de presentes fué una agradable sorpresa para una reunión organizada tan 
+sobre la fecha y cerca de fin de año.
 
-[[LISTA DE NOMBRES, LINKS, LO QUE QUIERAN]]
+Gracias a [Pyxis](http://www.pyxisportal.com/es/) por aportar el lugar y a todos los presentes por ir:
+
+* Matias Fernandez
+* Enrique Rodriguez
+* Emiliano Perez
+* Alejandro Mateo
+* Tomás Lazaro 
+* Germán Ferrari
+* Gabriel Claramunt
+* Federico Silva
 
 ## Que vamos a hacer?
 
@@ -28,7 +36,7 @@ con scala; el lenguaje en sí, las herramientas, la comunidad.
 
 ## Queremos saber de vos
 
-Con el fin de preparar material para mejor recibir a todo el mundo nos gustaría
+Con el fin de preparar material para recibir mejor a todo el mundo nos gustaría
 [ hacerte unas preguntas ](https://docs.google.com/spreadsheet/viewform?formkey=dFlpOXN4ZjFCeDRuMjA1X3lTMFEtdVE6MQ#gid=0).
 
 
