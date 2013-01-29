@@ -7,9 +7,9 @@ sharing: true
 categories: encuentros
 ---
 
-#### Primer encuentro de entusiastas del lenguaje Scala en Montevideo.
+### Primer encuentro de entusiastas del lenguaje Scala en Montevideo.
 
-## El 12/12/12 nos juntamos por primera vez. 
+El 12/12/12 nos juntamos por primera vez. 
 
  La cantidad de presentes fué una agradable sorpresa para una reunión organizada tan 
 sobre la fecha y cerca de fin de año.
