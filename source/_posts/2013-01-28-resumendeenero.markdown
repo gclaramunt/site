@@ -8,10 +8,11 @@ categories: encuentros charla
 
 ### Scala Meetup de Enero, retrospectiva
 
-El 17 de Enero nos volvimos a juntar, esta ves habiendonos organizado mejor y promoviendo
+
+El 17 de Enero nos volvimos a juntar, esta vez habiendonos organizado mejor y promoviendo
 mejor el encuentro.
 
-El resultado fué una muy buena cantidad de personas interesadas y una muy buena concurrencia. 
+El resultado fue una muy buena cantidad de personas interesadas y una muy buena concurrencia. 
 De hecho, tuvimos que cerrar los RSVP en [meetup.com](http://www.meetup.com/Scala-Meetup-MVD/) para estar
 seguros de que entrabamos todos.
 
@@ -21,10 +22,8 @@ Presentamos la charla "Intro a Scala" y estuvimos un par de horas mirando códig
 y aprendiendo entre todos. Hubo muchas preguntas que se fueron dando interactivamente a lo largo de
 la charla que empezó con diapositivas y rápidamente pasó a estar centrada en el entorno de desarrollo.
 
-Aquí estan [el código](https://github.com/scala-meetup-mvd/intro-scala), [las diapos](https://speakerdeck.com/fedesilva/intro-a-scala)
+Aquí están [el código](https://github.com/scala-meetup-mvd/intro-scala), [las diapos](https://speakerdeck.com/fedesilva/intro-a-scala)
 y algunas [fotos](http://www.meetup.com/Scala-Meetup-MVD/photos/all_photos/?photoAlbumId=12653922) 
-
-
 
 ## Como seguimos?
 
@@ -36,8 +35,8 @@ esta abierta para RSVPs y ya tenemos unas cuantas "reservas".
 
 ## Crédito
 
-Finalmente queremos agreadecer a nuestros [sponsors](http://www.meetup.com/Scala-Meetup-MVD/sponsors/) 
-sin los cuales no hubiera sido posible organizar este pequeño evento.
+Finalmente queremos agradecer a nuestros [sponsors](http://www.meetup.com/Scala-Meetup-MVD/sponsors/) 
+sin los cuales no hubiera sido posible organizar este evento.
 
 * [Pyxis](http://www.pyxisportal.com/)
 * Aqua.it
